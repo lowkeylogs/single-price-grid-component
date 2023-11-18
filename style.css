@@ -234,6 +234,7 @@ body {
 
 @media (min-width: 768px) {
   .pricing {
+    --border-radius: 0.5rem;
     --padding: 2.5rem;
   }
 
