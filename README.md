@@ -6,5 +6,5 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Single price grid component](https://www.frontendmentor.io/)
+- Solution URL: [Single price grid component](https://www.frontendmentor.io/solutions/single-price-grid-component-Iu68Cug_BG)
 - Live Site URL: [https://amgnim.github.io/single-price-grid-component/](https://amgnim.github.io/single-price-grid-component/)
